@@ -1,4 +1,4 @@
 # Random_Password_Generator
 
-The random password generator in python!
+The random password generator using Python
 
